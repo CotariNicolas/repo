@@ -6,6 +6,7 @@ int main() {
     int dias_por_mes[] = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
     int mes, dia;
     int dia_del_ano = 365;
+    int h;
     
     printf("Ingrese el mes (1-12): ");
     scanf("%d", &mes);
