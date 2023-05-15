@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 int main() {
+    int holaa;
     int dias_por_mes[] = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
     int mes, dia;
     int dia_del_ano = 365;
